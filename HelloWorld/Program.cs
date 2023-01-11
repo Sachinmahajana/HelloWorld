@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to HelloWorld Program");
-            Console.WrriteLine("Making Changes in remote main branch");
-            Console.Readline();
+            Console.WriteLine("Making Changes in remote main branch");
+            Console.ReadLine();
 
         }
     }
